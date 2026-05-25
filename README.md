@@ -1,3 +1,4 @@
+Amazon Sales Dashboard
 This is an interactive dashboard developed using Power BI to transform raw Amazon Sales Data into clear, actionable business insights.
 
 ## Dashboard Preview
