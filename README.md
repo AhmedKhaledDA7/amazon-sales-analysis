@@ -1,7 +1,7 @@
 This is an interactive dashboard developed using Power BI to transform raw Amazon Sales Data into clear, actionable business insights.
 
 ## Dashboard Preview
-![Amazon Sales Dashboard](amazon_sales.png)
+![Amazon Sales Dashboard](amazon-sales.png)
 
 ## Key Insights & Highlights
 * 📊 **Total Sales:** Reached **91.83M**
